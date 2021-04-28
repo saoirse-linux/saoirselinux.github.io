@@ -2,12 +2,13 @@ body {
     /*margin-left: auto;
     margin-right: auto;*/
     color: white;
-    background-color:#3b3b3b;
+    background-color:#292a47;
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
 }
 h1 {
+    font-size: x-large;
     font-family: monospace;
     text-align: center;
 }
@@ -24,6 +25,13 @@ p {
 a {
     color:yellow
 }
-i{
-
+h2 {
+    font-size: larger;
+    font-family: monospace;
+    text-align: center;
+}
+p2 {
+    font-family: monospace;
+    font-size: large;
+    text-align: center;
 }
